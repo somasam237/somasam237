@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+😄 So, i just thought, since i am working as an IT apprentice for the first time of my life in a real campany, i will just share what i am learning there.
+ 🌱 i am learning VueJs, primevue and NuxtJx. the 20.10.2025, i created a simple campus event web App where users can add event for the campus. Now i am migrating an expressJs code to NuxtJs. it's so fun.
+
 <!--
 **somasam237/somasam237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
